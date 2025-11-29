@@ -86,13 +86,3 @@ SQL Chatbot is a web-based application that generates SQL queries based on user 
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-Your Name - [rishitrdhote@gmail.com](mailto:rishitrdhote@gmail.com)
-
-Project Link: [https://github.com/Ripperox/SQL_Chatbot](https://github.com/Ripperox/SQL_Chatbot)
