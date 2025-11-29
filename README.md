@@ -23,7 +23,7 @@ SQL Chatbot is a web-based application that generates SQL queries based on user 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Ripperox/SQL_Chatbot.git
+    git clone shreeya1810/text-to-sql
     cd SQL_Chatbot
     ```
 
@@ -45,7 +45,7 @@ SQL Chatbot is a web-based application that generates SQL queries based on user 
     DB_PASSWORD=your_database_password
     DB_HOST=your_database_host
     DB_NAME=your_database_name
-    OPENAI_API_KEY=your_openai_key
+    OPENAI_API_KEY=your_openai_key 
     
     ```
 
